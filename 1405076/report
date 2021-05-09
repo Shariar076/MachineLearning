@@ -1,0 +1,205 @@
+With 1000 rows
+Data: 70675
+Train: 34184
+Validation: 18520
+Test: 19608
+training stage
+model:  1
+lambda_v:  0.01 lambda_u:  0.01 K:  5
+converged at rmse:  2.1921905504960435
+model:  2
+lambda_v:  0.01 lambda_u:  0.01 K:  10
+converged at rmse:  2.0097091170340544
+model:  3
+lambda_v:  0.01 lambda_u:  0.01 K:  20
+converged at rmse:  1.7465208603361362
+model:  4
+lambda_v:  0.01 lambda_u:  0.01 K:  40
+converged at rmse:  0.6511739402675463
+model:  5
+lambda_v:  0.01 lambda_u:  0.1 K:  5
+converged at rmse:  2.1708094193180676
+model:  6
+lambda_v:  0.01 lambda_u:  0.1 K:  10
+converged at rmse:  1.9975893276853374
+model:  7
+lambda_v:  0.01 lambda_u:  0.1 K:  20
+converged at rmse:  1.7136522544890544
+model:  8
+lambda_v:  0.01 lambda_u:  0.1 K:  40
+converged at rmse:  0.6763655348251365
+model:  9
+lambda_v:  0.01 lambda_u:  1.0 K:  5
+converged at rmse:  2.1879197667279375
+model:  10
+lambda_v:  0.01 lambda_u:  1.0 K:  10
+converged at rmse:  1.9951297380277162
+model:  11
+lambda_v:  0.01 lambda_u:  1.0 K:  20
+converged at rmse:  1.735646821285268
+model:  12
+lambda_v:  0.01 lambda_u:  1.0 K:  40
+converged at rmse:  0.671229537446825
+model:  13
+lambda_v:  0.01 lambda_u:  10 K:  5
+converged at rmse:  2.180910664069426
+model:  14
+lambda_v:  0.01 lambda_u:  10 K:  10
+converged at rmse:  1.9800479763796088
+model:  15
+lambda_v:  0.01 lambda_u:  10 K:  20
+converged at rmse:  1.6981899089600923
+model:  16
+lambda_v:  0.01 lambda_u:  10 K:  40
+converged at rmse:  0.6858213389558698
+model:  17
+lambda_v:  0.1 lambda_u:  0.01 K:  5
+converged at rmse:  2.179958047665215
+model:  18
+lambda_v:  0.1 lambda_u:  0.01 K:  10
+converged at rmse:  1.9843138316282967
+model:  19
+lambda_v:  0.1 lambda_u:  0.01 K:  20
+converged at rmse:  1.7087471266453942
+model:  20
+lambda_v:  0.1 lambda_u:  0.01 K:  40
+converged at rmse:  0.8066844126959912
+model:  21
+lambda_v:  0.1 lambda_u:  0.1 K:  5
+converged at rmse:  2.17716815982205
+model:  22
+lambda_v:  0.1 lambda_u:  0.1 K:  10
+converged at rmse:  1.9662967175675838
+model:  23
+lambda_v:  0.1 lambda_u:  0.1 K:  20
+converged at rmse:  1.7607659746218776
+model:  24
+lambda_v:  0.1 lambda_u:  0.1 K:  40
+converged at rmse:  0.8001625061955773
+model:  25
+lambda_v:  0.1 lambda_u:  1.0 K:  5
+converged at rmse:  2.178912725409826
+model:  26
+lambda_v:  0.1 lambda_u:  1.0 K:  10
+converged at rmse:  1.977709241519284
+model:  27
+lambda_v:  0.1 lambda_u:  1.0 K:  20
+converged at rmse:  1.8062472993175551
+model:  28
+lambda_v:  0.1 lambda_u:  1.0 K:  40
+converged at rmse:  0.8036549349658844
+model:  29
+lambda_v:  0.1 lambda_u:  10 K:  5
+converged at rmse:  2.173661192795757
+model:  30
+lambda_v:  0.1 lambda_u:  10 K:  10
+converged at rmse:  1.9942714444491225
+model:  31
+lambda_v:  0.1 lambda_u:  10 K:  20
+converged at rmse:  1.7285379512668477
+model:  32
+lambda_v:  0.1 lambda_u:  10 K:  40
+converged at rmse:  0.8080359304773193
+model:  33
+lambda_v:  1.0 lambda_u:  0.01 K:  5
+converged at rmse:  2.175152074064348
+model:  34
+lambda_v:  1.0 lambda_u:  0.01 K:  10
+converged at rmse:  2.013485653347693
+model:  35
+lambda_v:  1.0 lambda_u:  0.01 K:  20
+converged at rmse:  1.967800273644521
+model:  36
+lambda_v:  1.0 lambda_u:  0.01 K:  40
+converged at rmse:  1.3526698384229163
+model:  37
+lambda_v:  1.0 lambda_u:  0.1 K:  5
+converged at rmse:  2.1882160094704144
+model:  38
+lambda_v:  1.0 lambda_u:  0.1 K:  10
+converged at rmse:  1.9827174365916627
+model:  39
+lambda_v:  1.0 lambda_u:  0.1 K:  20
+converged at rmse:  1.9454069936821636
+model:  40
+lambda_v:  1.0 lambda_u:  0.1 K:  40
+converged at rmse:  1.3307780723306828
+model:  41
+lambda_v:  1.0 lambda_u:  1.0 K:  5
+converged at rmse:  2.19002893634572
+model:  42
+lambda_v:  1.0 lambda_u:  1.0 K:  10
+converged at rmse:  2.0109497132494214
+model:  43
+lambda_v:  1.0 lambda_u:  1.0 K:  20
+converged at rmse:  1.8902344227604153
+model:  44
+lambda_v:  1.0 lambda_u:  1.0 K:  40
+converged at rmse:  1.3185421750180206
+model:  45
+lambda_v:  1.0 lambda_u:  10 K:  5
+converged at rmse:  2.181792855343896
+model:  46
+lambda_v:  1.0 lambda_u:  10 K:  10
+converged at rmse:  2.002644176709564
+model:  47
+lambda_v:  1.0 lambda_u:  10 K:  20
+converged at rmse:  1.9582594344040962
+model:  48
+lambda_v:  1.0 lambda_u:  10 K:  40
+converged at rmse:  1.3438345220135348
+model:  49
+lambda_v:  10 lambda_u:  0.01 K:  5
+converged at rmse:  2.182720279645145
+model:  50
+lambda_v:  10 lambda_u:  0.01 K:  10
+converged at rmse:  2.0002831195154656
+model:  51
+lambda_v:  10 lambda_u:  0.01 K:  20
+converged at rmse:  1.5708124818151046
+model:  52
+lambda_v:  10 lambda_u:  0.01 K:  40
+converged at rmse:  2.1619973646264374
+model:  53
+lambda_v:  10 lambda_u:  0.1 K:  5
+converged at rmse:  2.1992404416019964
+model:  54
+lambda_v:  10 lambda_u:  0.1 K:  10
+converged at rmse:  2.0222796840573567
+model:  55
+lambda_v:  10 lambda_u:  0.1 K:  20
+converged at rmse:  1.5745949712468474
+model:  56
+lambda_v:  10 lambda_u:  0.1 K:  40
+converged at rmse:  2.139973226995832
+model:  57
+lambda_v:  10 lambda_u:  1.0 K:  5
+converged at rmse:  2.191719814097817
+model:  58
+lambda_v:  10 lambda_u:  1.0 K:  10
+converged at rmse:  2.01442380746525
+model:  59
+lambda_v:  10 lambda_u:  1.0 K:  20
+converged at rmse:  1.5826277751887203
+model:  60
+lambda_v:  10 lambda_u:  1.0 K:  40
+converged at rmse:  2.179677790850689
+model:  61
+lambda_v:  10 lambda_u:  10 K:  5
+converged at rmse:  2.186533192601649
+model:  62
+lambda_v:  10 lambda_u:  10 K:  10
+converged at rmse:  1.995033600404031
+model:  63
+lambda_v:  10 lambda_u:  10 K:  20
+converged at rmse:  1.6033697388793902
+model:  64
+lambda_v:  10 lambda_u:  10 K:  40
+converged at rmse:  2.187646257850148
+
+validation stage:
+model:  49 is best
+
+
+test stage
+RMSE of test data:  1.9018886773383263

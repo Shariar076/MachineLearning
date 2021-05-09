@@ -1,0 +1,28 @@
+
+import numpy as np
+import pandas as pd
+
+address = "./datasets/train_2v.csv"
+df = pd.read_csv(address)
+to_drop = ['id']
+df = df.drop(to_drop, axis=1).dropna()
+df = df.loc[df['gender']!='Other']
+df.head()
+
+for cat in df.select_dtypes('O').columns:
+    df[cat] = df[cat].astype('category').cat.codes
+df.head()
+
+import seaborn as sns
+sns.countplot("stroke",data=df)
+
+count_class_0, count_class_1 = df['stroke'].value_counts()
+
+# Divide by class
+df_class_0 = df[df['stroke'] == 0]
+df_class_1 = df[df['stroke'] == 1]
+
+df_class_0_under = df_class_0.sample(count_class_1)
+df_under = pd.concat([df_class_0_under, df_class_1], axis=0)
+print(df_under['stroke'].value_counts())
+df = df_under

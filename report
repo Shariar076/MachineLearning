@@ -1,0 +1,271 @@
+1000 data
+data shape:  (24983, 101)
+(2, 70675)
+(2, 35319)
+(2, 18384)
+(2, 19048)
+training stage
+model:  1
+lambda_v:  0.01 lambda_u:  0.01 K:  5
+converged at rmse:  2.1590443337280933
+model:  2
+lambda_v:  0.01 lambda_u:  0.01 K:  10
+converged at rmse:  1.8217738717171925
+model:  3
+lambda_v:  0.01 lambda_u:  0.01 K:  20
+converged at rmse:  1.1997912826824741
+model:  4
+lambda_v:  0.01 lambda_u:  0.01 K:  40
+converged at rmse:  0.24404053709238213
+model:  5
+lambda_v:  0.01 lambda_u:  0.1 K:  5
+converged at rmse:  2.164031857790255
+model:  6
+lambda_v:  0.01 lambda_u:  0.1 K:  10
+converged at rmse:  1.8201187655180693
+model:  7
+lambda_v:  0.01 lambda_u:  0.1 K:  20
+converged at rmse:  1.2017325449481153
+model:  8
+lambda_v:  0.01 lambda_u:  0.1 K:  40
+converged at rmse:  0.23958970444945496
+model:  9
+lambda_v:  0.01 lambda_u:  1.0 K:  5
+converged at rmse:  2.159269452410061
+model:  10
+lambda_v:  0.01 lambda_u:  1.0 K:  10
+converged at rmse:  1.8239817575527193
+model:  11
+lambda_v:  0.01 lambda_u:  1.0 K:  20
+converged at rmse:  1.195503052692048
+model:  12
+lambda_v:  0.01 lambda_u:  1.0 K:  40
+converged at rmse:  0.2269133064966689
+model:  13
+lambda_v:  0.01 lambda_u:  10 K:  5
+converged at rmse:  2.1596181942713017
+model:  14
+lambda_v:  0.01 lambda_u:  10 K:  10
+converged at rmse:  1.8213111383086082
+model:  15
+lambda_v:  0.01 lambda_u:  10 K:  20
+converged at rmse:  1.1956170398418668
+model:  16
+lambda_v:  0.01 lambda_u:  10 K:  40
+converged at rmse:  0.2346424775224465
+model:  17
+lambda_v:  0.1 lambda_u:  0.01 K:  5
+converged at rmse:  2.1613809719127963
+model:  18
+lambda_v:  0.1 lambda_u:  0.01 K:  10
+converged at rmse:  1.8136758493960166
+model:  19
+lambda_v:  0.1 lambda_u:  0.01 K:  20
+converged at rmse:  1.1993318001588456
+model:  20
+lambda_v:  0.1 lambda_u:  0.01 K:  40
+converged at rmse:  0.2266640261145748
+model:  21
+lambda_v:  0.1 lambda_u:  0.1 K:  5
+converged at rmse:  2.1663257226342716
+model:  22
+lambda_v:  0.1 lambda_u:  0.1 K:  10
+converged at rmse:  1.813142852921252
+model:  23
+lambda_v:  0.1 lambda_u:  0.1 K:  20
+converged at rmse:  1.1961257311792832
+model:  24
+lambda_v:  0.1 lambda_u:  0.1 K:  40
+converged at rmse:  0.226936130520676
+model:  25
+lambda_v:  0.1 lambda_u:  1.0 K:  5
+converged at rmse:  2.1627964099851624
+model:  26
+lambda_v:  0.1 lambda_u:  1.0 K:  10
+converged at rmse:  1.8144445653858041
+model:  27
+lambda_v:  0.1 lambda_u:  1.0 K:  20
+converged at rmse:  1.190812013178941
+model:  28
+lambda_v:  0.1 lambda_u:  1.0 K:  40
+converged at rmse:  0.229991524266628
+model:  29
+lambda_v:  0.1 lambda_u:  10 K:  5
+converged at rmse:  2.1602510094296288
+model:  30
+lambda_v:  0.1 lambda_u:  10 K:  10
+converged at rmse:  1.8133082053808136
+model:  31
+lambda_v:  0.1 lambda_u:  10 K:  20
+converged at rmse:  1.1941978313882464
+model:  32
+lambda_v:  0.1 lambda_u:  10 K:  40
+converged at rmse:  0.23166469018068298
+model:  33
+lambda_v:  1.0 lambda_u:  0.01 K:  5
+converged at rmse:  2.1579007869396265
+model:  34
+lambda_v:  1.0 lambda_u:  0.01 K:  10
+converged at rmse:  1.8167940480458218
+model:  35
+lambda_v:  1.0 lambda_u:  0.01 K:  20
+converged at rmse:  1.1963933398406004
+model:  36
+lambda_v:  1.0 lambda_u:  0.01 K:  40
+converged at rmse:  0.22941607294170246
+model:  37
+lambda_v:  1.0 lambda_u:  0.1 K:  5
+converged at rmse:  2.1612231857328057
+model:  38
+lambda_v:  1.0 lambda_u:  0.1 K:  10
+converged at rmse:  1.813446814812134
+model:  39
+lambda_v:  1.0 lambda_u:  0.1 K:  20
+converged at rmse:  1.1938430245780849
+model:  40
+lambda_v:  1.0 lambda_u:  0.1 K:  40
+converged at rmse:  0.22239558468692683
+model:  41
+lambda_v:  1.0 lambda_u:  1.0 K:  5
+converged at rmse:  2.1586750226792937
+model:  42
+lambda_v:  1.0 lambda_u:  1.0 K:  10
+converged at rmse:  1.8173013420141138
+model:  43
+lambda_v:  1.0 lambda_u:  1.0 K:  20
+converged at rmse:  1.1873557067675593
+model:  44
+lambda_v:  1.0 lambda_u:  1.0 K:  40
+converged at rmse:  0.23784254941135938
+model:  45
+lambda_v:  1.0 lambda_u:  10 K:  5
+converged at rmse:  2.164099096492356
+model:  46
+lambda_v:  1.0 lambda_u:  10 K:  10
+converged at rmse:  1.8315490227647524
+model:  47
+lambda_v:  1.0 lambda_u:  10 K:  20
+converged at rmse:  1.2066812849712523
+model:  48
+lambda_v:  1.0 lambda_u:  10 K:  40
+converged at rmse:  0.31371228154227493
+model:  49
+lambda_v:  10 lambda_u:  0.01 K:  5
+converged at rmse:  2.1592372243914553
+model:  50
+lambda_v:  10 lambda_u:  0.01 K:  10
+converged at rmse:  1.8196756575476538
+model:  51
+lambda_v:  10 lambda_u:  0.01 K:  20
+converged at rmse:  1.1757100049838174
+model:  52
+lambda_v:  10 lambda_u:  0.01 K:  40
+converged at rmse:  0.23295137850760633
+model:  53
+lambda_v:  10 lambda_u:  0.1 K:  5
+converged at rmse:  2.159180918913693
+model:  54
+lambda_v:  10 lambda_u:  0.1 K:  10
+converged at rmse:  1.8109553898777673
+model:  55
+lambda_v:  10 lambda_u:  0.1 K:  20
+converged at rmse:  1.1883942716721532
+model:  56
+lambda_v:  10 lambda_u:  0.1 K:  40
+converged at rmse:  0.23892643529788843
+model:  57
+lambda_v:  10 lambda_u:  1.0 K:  5
+converged at rmse:  2.163653200476108
+model:  58
+lambda_v:  10 lambda_u:  1.0 K:  10
+converged at rmse:  1.8256380468945093
+model:  59
+lambda_v:  10 lambda_u:  1.0 K:  20
+converged at rmse:  1.1964586597155025
+model:  60
+lambda_v:  10 lambda_u:  1.0 K:  40
+converged at rmse:  0.3115750162733581
+model:  61
+lambda_v:  10 lambda_u:  10 K:  5
+converged at rmse:  2.1645929152941856
+model:  62
+lambda_v:  10 lambda_u:  10 K:  10
+converged at rmse:  1.844119836157527
+model:  63
+lambda_v:  10 lambda_u:  10 K:  20
+converged at rmse:  1.268225532074575
+model:  64
+lambda_v:  10 lambda_u:  10 K:  40
+converged at rmse:  0.5428904298862551
+
+
+validation stage
+model:  1 risk:  1.8705862793402173
+model:  2 risk:  2.193840758656892
+model:  3 risk:  3.188638118628632
+model:  4 risk:  4.154231193384716
+model:  5 risk:  1.8557420449412243
+model:  6 risk:  2.2168193243121936
+model:  7 risk:  3.1041501708516552
+model:  8 risk:  4.082085373834741
+model:  9 risk:  1.8791383903429495
+model:  10 risk:  2.186698200101503
+model:  11 risk:  3.1207499689234
+model:  12 risk:  4.039968436015034
+model:  13 risk:  1.8441274300968553
+model:  14 risk:  2.1716306745322496
+model:  15 risk:  3.1064078402828725
+model:  16 risk:  3.7975012552595317
+model:  17 risk:  1.8400894915267252
+model:  18 risk:  2.0671350727341986
+model:  19 risk:  2.757739301239445
+model:  20 risk:  3.2377490824970714
+model:  21 risk:  1.8513306256645814
+model:  22 risk:  2.100666399987303
+model:  23 risk:  2.751285332917009
+model:  24 risk:  3.278264526232821
+model:  25 risk:  1.8429785014481264
+model:  26 risk:  2.0886589528293578
+model:  27 risk:  2.76042045937268
+model:  28 risk:  3.2328324148002436
+model:  29 risk:  1.8466095844661918
+model:  30 risk:  2.053935199490243
+model:  31 risk:  2.6773752204759966
+model:  32 risk:  3.0418555970859056
+model:  33 risk:  1.8250089347035428
+model:  34 risk:  2.093424083426289
+model:  35 risk:  2.6538227777524765
+model:  36 risk:  2.998364824633947
+model:  37 risk:  1.8292916497957958
+model:  38 risk:  2.0390566900436684
+model:  39 risk:  2.7077701199587483
+model:  40 risk:  2.9914332824427454
+model:  41 risk:  1.8363337919948672
+model:  42 risk:  2.017779390776402
+model:  43 risk:  2.5993386081768297
+model:  44 risk:  2.8770688354001237
+model:  45 risk:  1.8438554674568661
+model:  46 risk:  2.0093597711436155
+model:  47 risk:  2.453453361043347
+model:  48 risk:  2.541053856031245
+model:  49 risk:  1.8323577795456203
+model:  50 risk:  2.012670644286655
+model:  51 risk:  2.680011990251366
+model:  52 risk:  2.9216977289206194
+model:  53 risk:  1.8365907027978887
+model:  54 risk:  2.04529390487184
+model:  55 risk:  2.582551482013644
+model:  56 risk:  2.8375451901011424
+model:  57 risk:  1.82571240941159
+model:  58 risk:  2.04108846507732
+model:  59 risk:  2.444510414275514
+model:  60 risk:  2.5532139131143285
+model:  61 risk:  1.8097649671340088
+model:  62 risk:  1.9063206268606705
+model:  63 risk:  2.162881506673686
+model:  64 risk:  2.095531093218142
+model:  61 is best
+
+
+testing stage
+RMSE of test data:  1.8304656233109136
